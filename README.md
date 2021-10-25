@@ -2,8 +2,8 @@
 
 ## DU - Microservice
 
-`DU - Microservice` is a basic microservice design for an application that returns information of an 
-institution's department's and its user's.
+`DU - Microservice` is a basic microservice application that returns information of an 
+institution's department and its user's.
 
 For the microservice cloud-config-server **[click here](https://github.com/parithoshpoojary/ms-config-server).**
 
