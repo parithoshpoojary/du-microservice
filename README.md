@@ -7,8 +7,8 @@
 
 
 ### Functional Microservices
-* **Product Catalog Microservice**
-* **Cart Microservice**
+* **Department Microservice**
+* **User Microservice**
 
 ### Infrastructure Microservices
 * **Global Configuration Microservice**
